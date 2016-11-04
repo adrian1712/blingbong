@@ -1,5 +1,5 @@
-body{background-image: url(../images/snow.jpg)}
-body{font-family: 'Itim', cursive; color: #CFD6D2}
+body{background-color: lightgray}
+body{font-family: 'Itim', cursive; color: red}
 .medium {
   width: 800px; height: 250px
 }
